@@ -58,16 +58,16 @@ On the contract publishing event, a `AdminCap` NFT is mint to the deployer addre
 ### Current contracts/objects:
 
 #### Devnet
-- Package address: [0xb33b4a48996c5373057f6972d5d94c9b8fb40234](https://explorer.sui.io/object/0xb33b4a48996c5373057f6972d5d94c9b8fb40234?network=devnet)
-- Registry object: [0x1d3bf1bb0d6db751676d21a7ecdf583ad885ee93](https://explorer.sui.io/object/0x1d3bf1bb0d6db751676d21a7ecdf583ad885ee93?network=devnet)
-- Base resolver object: [0xbf59911c6430cdcb3c8fa27b972f9285031d9bb7](https://explorer.sui.io/object/0xbf59911c6430cdcb3c8fa27b972f9285031d9bb7?network=devnet)
-- Configuration object: [0x53929ade9fd7a5abb02edc681d2648b569bdbf2d](https://explorer.sui.io/object/0x53929ade9fd7a5abb02edc681d2648b569bdbf2d?network=devnet)
+- Package address: [0x91012f780ee0b2563eba19a49a216a4af3c715a7](https://explorer.devnet.sui.io/objects/0x91012f780ee0b2563eba19a49a216a4af3c715a7)
+- Registry object: [0xc7fb3f4d40df3bebab02898bdc203a26cbdc454c](https://explorer.devnet.sui.io/objects/0xc7fb3f4d40df3bebab02898bdc203a26cbdc454c)
+- Base resolver object: [0xfdfbe3535a6e1f92173207f7c0eac4373f0a08c9](https://explorer.devnet.sui.io/objects/0xfdfbe3535a6e1f92173207f7c0eac4373f0a08c9)
+- Configuration object: [0x4d3da9cda9efef3466d1cee4c59926571cdbc606](https://explorer.devnet.sui.io/objects/0x4d3da9cda9efef3466d1cee4c59926571cdbc606)
 
 #### Testnet
-- Package address: [0x21f57b72a89f0a0f98572b29f7dfa5bde7062a0c](https://explorer.sui.io/object/0x21f57b72a89f0a0f98572b29f7dfa5bde7062a0c?network=testnet)
-- Registry object: [0xa1f5d75e7f6772ade46a6cda8766989027907f60](https://explorer.sui.io/object/0xa1f5d75e7f6772ade46a6cda8766989027907f60?network=testnet)
-- Base resolver object: [0x1a4d838a1b9d33d2b25e26c1b793e11e555c7049](https://explorer.sui.io/object/0x1a4d838a1b9d33d2b25e26c1b793e11e555c7049?network=testnet)
-- Configuration object: [0x5ecf10ddf80f0f71cbcf0b3356a57ff661a8b979](https://explorer.sui.io/object/0x5ecf10ddf80f0f71cbcf0b3356a57ff661a8b979?network=testnet)
+- Package address: [0x91012f780ee0b2563eba19a49a216a4af3c715a7](https://explorer.devnet.sui.io/objects/0x91012f780ee0b2563eba19a49a216a4af3c715a7)
+- Registry object: [0xc7fb3f4d40df3bebab02898bdc203a26cbdc454c](https://explorer.devnet.sui.io/objects/0xc7fb3f4d40df3bebab02898bdc203a26cbdc454c)
+- Base resolver object: [0xfdfbe3535a6e1f92173207f7c0eac4373f0a08c9](https://explorer.devnet.sui.io/objects/0xfdfbe3535a6e1f92173207f7c0eac4373f0a08c9)
+- Configuration object: [0x4d3da9cda9efef3466d1cee4c59926571cdbc606](https://explorer.devnet.sui.io/objects/0x4d3da9cda9efef3466d1cee4c59926571cdbc606)
 
 #### Registry
 
